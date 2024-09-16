@@ -10,6 +10,6 @@ int main()
     {
         fact *= i;
         i++;
-        }
-    cout << fact;
+    }
+    cout << "factorial : " << fact;
 }
